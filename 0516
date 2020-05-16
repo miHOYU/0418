@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zt-TW">
+<head>
+<title>表格練習1</title><meta charset="utf-8">
+</heat>
+
+<body>
+
+<table border=1>
+<tr><td>1st</td><td>施XX</td><td>30cm</td></tr>
+<tr><td>2nd</td><td>王XX</td><td>2500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000cm</td></tr>
+<tr><td>3rd</td><td>戚XX</td><td>20cm</td></tr>
+<tr><td>4th</td><td>蔡XX</td><td>5cm</td></tr>
+</table>
+</body>
+</html>
